@@ -1,2 +1,2 @@
-# page-images
-High quality images of each page of the Egyptian Gazette in 1905. Divided into quarterly folders.
+# page-images October-December 1907
+High quality images of each page of the Egyptian Gazette in October-December 1907.
