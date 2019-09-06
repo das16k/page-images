@@ -1,3 +1,5 @@
+This repository contains individual pages from the listed days, in pdf format. Thanks to the generous contributor.
+
 Date|Partial description of contents
 ---|---
 1918-07-01|Egypt's Health, Alexandria's Refugees
@@ -13,7 +15,7 @@ Date|Partial description of contents
 1918-07-11|Crime in Provinces, Rise in Pests
 1918-07-11|Egyptian women and children
 1918-07-12|Profiteering Outbreak
-1918-07-15 Egypt's Food
+1918-07-15|Egypt's Food
 1918-07-16(2)|Egypt's Plagues, the fly campaign
 1918-07-16(3)|Egypt's Food
 1918-07-17|Egypt's Food, the Oil Crisis
