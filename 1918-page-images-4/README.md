@@ -37,7 +37,7 @@ Date|Partial description of contents
 1918-11-18|Alexandria's Health, more deaths than births
 1918-11-18(2)|Egypt's food, horse flesh at Alexandria
 1918-11-19|unsure
-1918-11-19(2) Native press, horseflesh
+1918-11-19(2)|Native press, horseflesh
 1918-11-19(3)|Egypt's food, horseflesh at Alexandria
 1918-11-23|Plague diminishing in Egypt
 1918-11-25|Spanish influenza, Ravages in Cairo
