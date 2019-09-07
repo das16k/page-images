@@ -53,9 +53,9 @@ Date|Partial description of contents
 1919-04-19|Egypt today
 1919-04-19(2)|Egypt today cont'd and Native Press
 1919-04-20|Native Press
-1919-04-20(2) Egypt Today, delta quiet, arms seized in upper egypt
+1919-04-20(2)|Egypt Today, delta quiet, arms seized in upper egypt
 1919-04-22|Skirmish near Tanta, tram strike in Cairo
-1919-04-22(2) The Street Waifs and Strays, Native Press
+1919-04-22(2)|The Street Waifs and Strays, Native Press
 1919-04-23|Egypt today, Allenby proclamation, strike to end
 1919-04-23(2)|Native Press
 1919-04-24|Egypt Today, officials return to duty
@@ -97,9 +97,9 @@ Date|Partial description of contents
 1919-05-14|Egypt today, lawyers committee, etc
 1919-05-14|Native Press
 1919-05-15|Egypt today, disorderly meetings prohibited
-1919-05-15(2) -Native Press
+1919-05-15(2)|Native Press
 1919-05-16|Native Press, Egypt's food
-1919-05-16(2) Egypt today, action in parliament, trains
+1919-05-16(2)|Egypt today, action in parliament, trains
 1919-05-19|Native press, Egypt's water
 1919-05-19(2)|Cattle plague
 1919-05-20|Native Press
