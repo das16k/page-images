@@ -78,7 +78,7 @@ Date|Partial description of contents
 1919-03-25(2)|Native press, Alex's vital statistics
 1919-03-25(3)|unrest cont'd
 1919-03-26|Unrest, Allenby in control
-1919-03-26(2) unrest cont'd
+1919-03-26(2)|unrest cont'd
 1919-03-26(3)|Native Press
 1919-03-27|Unrest cont'd
 1919-03-27|Unrest, Lord Curzon explains, situation in provinces
