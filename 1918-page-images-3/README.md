@@ -1,4 +1,4 @@
-This repository contains individual pages from the listed days, in pdf format. Thanks to the generous contributor.
+This repository contains individual pages from the listed days, now converted from pdf to jpg. Thanks to the generous contributor.
 
 Date|Partial description of contents
 ---|---
