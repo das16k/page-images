@@ -1,4 +1,4 @@
-This repository contains individual pages from the listed days, in pdf format. Thanks to the generous donor. Filenames have not been doublechecked, and may be inaccurate.
+This repository contains individual pages from the listed days, in jpg format. Thanks to the generous donor. Filenames have not been doublechecked, and may be inaccurate.
 
 
 Date|Partial description of contents
